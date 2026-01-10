@@ -1,0 +1,28 @@
+{
+  "name": "Chargebyte - Clean Energy Tech for Africa",
+  "short_name": "Chargebyte",
+  "description": "Powering a Smarter, Greener, and More Informed Africa with clean energy solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10B981",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["utilities", "productivity", "business"],
+  "lang": "en",
+  "dir": "ltr"
+}
