@@ -1,4 +1,3 @@
-import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import ClientCarousel from './components/ClientCarousel';
@@ -9,6 +8,7 @@ import WhyChoose from './components/WhyChoose';
 import FAQ from './components/FAQ';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Team from './components/Team';
 
 function App() {
   return (
@@ -21,6 +21,7 @@ function App() {
       <TrackRecord />
       <WhyChoose />
       <FAQ />
+      <Team />
       <Contact />
       <Footer />
     </div>

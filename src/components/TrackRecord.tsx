@@ -20,7 +20,7 @@ const TrackRecord: React.FC = () => {
       description: "Property Management System",
       industry: "Real Estate",
       location: "Nairobi, Kenya",
-      year: "2024",
+      year: "2025",
       impact:
         "Centralized property management platform handling listings, tenant management, and automated billing across 200+ properties",
       technologies: ["React.js", "Node.js", "MongoDB", "Cloud Hosting"],
@@ -33,8 +33,8 @@ const TrackRecord: React.FC = () => {
       name: "SimuLoans Ltd",
       description: "Mobile Device Financing Platform",
       industry: "FinTech",
-      location: "Mombasa, Kenya",
-      year: "2024",
+      location: "Nairobi, Kenya",
+      year: "2025",
       impact:
         "End-to-end mobile device financing solution with loan processing, repayment tracking, and customer management",
       technologies: ["Flutter", "REST API", "Payment Gateway", "SMS Integration"],
@@ -52,7 +52,7 @@ const TrackRecord: React.FC = () => {
       description: "School Management System",
       industry: "Education",
       location: "Nairobi, Kenya",
-      year: "2023",
+      year: "2025",
       impact:
         "Comprehensive school management platform serving 1,500+ students with academic, administrative, and parent portal features",
       technologies: [
@@ -71,7 +71,7 @@ const TrackRecord: React.FC = () => {
       description: "Payroll & HR Management System",
       industry: "Business Services",
       location: "Nairobi, Kenya",
-      year: "2024",
+      year: "2025",
       impact:
         "Automated payroll processing system for 50+ employees with tax compliance, payslip generation, and employee self-service portal",
       technologies: ["React.js", "Python/Django", "Payroll Engine", "Tax Compliance"],

@@ -60,7 +60,7 @@ const Header: React.FC = () => {
                 ? 'bg-gray-100 border border-gray-200' 
                 : 'bg-white/10 border border-white/30'
             } rounded-full px-2 py-1`}>
-              {['solutions', 'industries', 'track-record', 'about', 'contact'].map((item) => (
+              {['solutions', 'industries', 'track-record', 'about', 'team', 'contact'].map((item) => (
                 <button
                   key={item}
                   onClick={() => scrollToSection(item)}
@@ -107,7 +107,7 @@ const Header: React.FC = () => {
         {isOpen && (
           <div className="lg:hidden mt-4 bg-white/95 backdrop-blur-lg rounded-2xl shadow-2xl border border-gray-200/50 overflow-hidden">
             <div className="p-4 space-y-2">
-              {['solutions', 'industries', 'track-record', 'about', 'contact'].map((item) => (
+              {['solutions', 'industries', 'track-record', 'about', 'team', 'contact'].map((item) => (
                 <button
                   key={item}
                   onClick={() => scrollToSection(item)}

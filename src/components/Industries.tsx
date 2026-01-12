@@ -40,7 +40,7 @@ const Industries: React.FC = () => {
       subtitle: "Schools & Learning Institutions",
       description:
         "Comprehensive school management systems with student portals and academic tracking",
-      projects: "Eaglesway Schools, SmartLearn Academy",
+      projects: "Eaglesway Schools",
       image: "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg",
       gradient: "from-purple-600 to-violet-700",
     },
@@ -71,7 +71,7 @@ const Industries: React.FC = () => {
       subtitle: "Property Management",
       description:
         "Property management systems and tenant engagement platforms",
-      projects: "BEKE",
+      projects: "BEKE, JB Solutions",
       image:
         "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=500&h=400&fit=crop",
       gradient: "from-indigo-500 to-purple-500",
