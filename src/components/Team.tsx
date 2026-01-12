@@ -16,7 +16,7 @@ const Team = () => {
       role: "Founder & Director",
       bio: "Visionary leader with 8+ years in tech entrepreneurship and digital transformation across Africa.",
       expertise: ["Business Strategy", "Digital Transformation", "Tech Leadership", "Digital Marketing", "Mobile Applications", "E-commerce Solutions", "Cloud Computing", "AI & Machine Learning",],
-      image: "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+      image: "/public/images/wiki.jpg",
       color: "from-blue-500 to-cyan-500",
       social: {
         linkedin: "https://www.linkedin.com/in/wycliff-vuzigu/",
